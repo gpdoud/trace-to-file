@@ -1,0 +1,15 @@
+C:\repos\trace-to-file\obj\Debug\net6.0\trace-to-file.csproj.AssemblyReference.cache
+C:\repos\trace-to-file\obj\Debug\net6.0\trace-to-file.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\trace-to-file\obj\Debug\net6.0\trace-to-file.AssemblyInfoInputs.cache
+C:\repos\trace-to-file\obj\Debug\net6.0\trace-to-file.AssemblyInfo.cs
+C:\repos\trace-to-file\obj\Debug\net6.0\trace-to-file.csproj.CoreCompileInputs.cache
+C:\repos\trace-to-file\bin\Debug\net6.0\trace-to-file.exe
+C:\repos\trace-to-file\bin\Debug\net6.0\trace-to-file.deps.json
+C:\repos\trace-to-file\bin\Debug\net6.0\trace-to-file.runtimeconfig.json
+C:\repos\trace-to-file\bin\Debug\net6.0\trace-to-file.dll
+C:\repos\trace-to-file\bin\Debug\net6.0\trace-to-file.pdb
+C:\repos\trace-to-file\obj\Debug\net6.0\trace-to-file.dll
+C:\repos\trace-to-file\obj\Debug\net6.0\refint\trace-to-file.dll
+C:\repos\trace-to-file\obj\Debug\net6.0\trace-to-file.pdb
+C:\repos\trace-to-file\obj\Debug\net6.0\trace-to-file.genruntimeconfig.cache
+C:\repos\trace-to-file\obj\Debug\net6.0\ref\trace-to-file.dll
